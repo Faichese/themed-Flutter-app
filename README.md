@@ -1,4 +1,4 @@
-# FLUTTER THEMED APP DEMO
+# FLUTTER THEMES APP DEMO
 
 A new Flutter project.
 
