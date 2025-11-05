@@ -28,4 +28,4 @@ This project is a starting point for a Flutter application.
 │       ├── GreatVibes-Regular.ttf
 │       ├── Oswald-VariabelFont_wght.ttf
 ├── pubspec.yaml
-└── README.md```
+└── README.md
